@@ -1,2 +1,2 @@
 # JavaOopsProjects
-This is Oops Concept Project
+This first project is Oops Concept Project
